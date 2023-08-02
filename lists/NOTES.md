@@ -8,3 +8,4 @@
 
 ## A Bad Stack
 
+`Option<T>` is an enum that represents a value that may exist. It can either be `Some(T)` or `None`.
